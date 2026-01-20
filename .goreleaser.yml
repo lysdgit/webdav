@@ -29,8 +29,7 @@ builds:
       - mips
       - mipsle
       - mips64
-      - mips64
-      - loong64
+      - mips64le
     goarm:
       - '5'
       - '6'
