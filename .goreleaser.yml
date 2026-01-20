@@ -23,13 +23,9 @@ builds:
       - openbsd
     goarch:
       - amd64
-      - '386'
       - arm
       - arm64
-      - mips
-      - mipsle
-      - mips64
-      - mips64le
+      - loong64
     goarm:
       - '5'
       - '6'
